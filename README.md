@@ -1,8 +1,5 @@
 # Linear Regression Model
 
-# Dataset Link:
--
-
 # Methods Applied
 - Data Cleaning
 - Data transformastion
